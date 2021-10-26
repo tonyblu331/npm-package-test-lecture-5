@@ -1,0 +1,30 @@
+{
+  "name": "class5",
+  "version": "0.1.0",
+  "description": "Test package.json",
+  "main": "index.js", 
+  "scripts": {
+  	"hello-world": "echo \"Hello World\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Bonet",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "react": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyblu331/Class5.git"
+  },
+  "keywords": [
+    "package",
+    "test",
+    "fe402",
+    "lesson5"
+  ],
+  "bugs": {
+    "url": "https://github.com/tonyblu331/Class5/issues"
+  },
+  "homepage": "https://github.com/tonyblu331/Class5#readme"
+}
